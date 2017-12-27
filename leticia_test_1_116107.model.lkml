@@ -63,7 +63,6 @@ explore: orders {
   }
 }
 
-explore: products {}
 
 explore: schema_migrations {}
 
