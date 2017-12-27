@@ -73,7 +73,7 @@ explore: user_data {
     relationship: many_to_one
   }
 }
-
+explore: products {}
 explore: users {}
 
 explore: users_nn {}
